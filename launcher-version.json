@@ -1,5 +1,5 @@
 {
-  "version": "2.2.13",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.13/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "El fondo de los controles superiores de Windows es transparente para mostrar el diseño del launcher."
+  "version": "2.2.14",
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.14/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "Quita la cuenta del pie de Inicio y armoniza Configuración con tonos azul petróleo y turquesa."
 }

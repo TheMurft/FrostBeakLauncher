@@ -1,5 +1,5 @@
 {
-  "version": "2.2.10",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.10/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "Los controles de Windows ahora usan el tono azul petróleo de la pantalla actual; se conserva el degradado del launcher."
+  "version": "2.2.11",
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.11/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "Barra superior en tono azul petróleo visible, con degradado integrado al fondo de Inicio."
 }

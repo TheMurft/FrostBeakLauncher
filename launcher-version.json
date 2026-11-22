@@ -1,5 +1,5 @@
 {
-  "version": "2.2.8",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.8/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "Corrige el botón Actualizar del catálogo: ahora responde en toda su superficie."
+  "version": "2.2.9",
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.9/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "Iguala el tono de los controles superiores de Windows con el fondo del launcher."
 }

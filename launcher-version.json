@@ -1,5 +1,5 @@
 {
-  "version": "2.2.11",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.11/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "Barra superior en tono azul petróleo visible, con degradado integrado al fondo de Inicio."
+  "version": "2.2.12",
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.12/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "Configuración adopta el encabezado azul petróleo de Inicio para que los controles de Windows se integren con ambas pantallas."
 }

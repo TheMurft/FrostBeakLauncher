@@ -1,5 +1,5 @@
 {
   "version": "2.2.5",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.4/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "Corrección de arranque del instalador y actualización automática del launcher."
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.5/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "Muestra la versión instalada en Configuración > Launcher."
 }

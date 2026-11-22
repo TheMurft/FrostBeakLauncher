@@ -1,5 +1,5 @@
 {
-  "version": "2.2.14",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.14/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "Quita la cuenta del pie de Inicio y armoniza Configuración con tonos azul petróleo y turquesa."
+  "version": "2.2.15",
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.15/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "El pie de Inicio queda despejado; se elimina el texto Hecho para explorar."
 }

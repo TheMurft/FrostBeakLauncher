@@ -1,5 +1,5 @@
 {
-  "version": "2.2.7",
-  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.7/FrostBeak.Launcher-win-x64.exe",
-  "releaseNotes": "Aviso visual con el estilo FrostBeak, progreso de descarga, verificación del instalador y opción para reintentar. Búsqueda manual desde Configuración > Launcher."
+  "version": "2.2.8",
+  "downloadUrl": "https://github.com/TheMurft/FrostBeakLauncher/releases/download/v2.2.8/FrostBeak.Launcher-win-x64.exe",
+  "releaseNotes": "Corrige el botón Actualizar del catálogo: ahora responde en toda su superficie."
 }
